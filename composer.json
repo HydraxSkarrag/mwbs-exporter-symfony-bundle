@@ -17,7 +17,7 @@
         "hydrax-skarrag/mysql-workbench-doctrine2-schema-exporter": "dev-master"
     },
     "autoload": {
-        "psr-0": { "MwbExporterBundle\\": "lib/" }
+        "psr-0": { "MwbExporterBundle\\": "" }
     },
     "target-dir": "MwbExporterBundle"
 }
