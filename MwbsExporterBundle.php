@@ -1,9 +1,9 @@
 <?php
 
-namespace MwbExporterBundle;
+namespace MwbsExporterBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class MwbExporterBundle extends Bundle
+class MwbsExporterBundle extends Bundle
 {
 }
