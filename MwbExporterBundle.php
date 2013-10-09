@@ -1,9 +1,9 @@
 <?php
 
-namespace MwbExporterBundle;
+namespace HydraxSkarrag\MwbExporterBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class MwbExporterBundle extends Bundle
+class HydraxSkarragMwbExporterBundle extends Bundle
 {
 }
