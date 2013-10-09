@@ -1,5 +1,5 @@
 <?php
-namespace MwbExporterBundle\Command;
+namespace HydraxSkarrag\MwbExporterBundle\Command;
 
 use Symfony\Bundle\FrameworkBundle\Command\ContainerAwareCommand;
 use Symfony\Component\Console\Input\InputArgument;
