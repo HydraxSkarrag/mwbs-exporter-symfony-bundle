@@ -1,0 +1,23 @@
+{
+    "name": "hydrax-skarrag/mysql-workbench-doctrine2-schema-exporter-symfony2-bundle",
+    "type": "cli",
+    "description": "MySQL Workbench Doctrine2 Schema Exporter Bundle",
+    "keywords": ["mysql","workbench","database","doctrine","cli"],
+    "homepage": "https://github.com/HydraxSkarrag/mysql-workbench-schema-exporter-symfony2-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Kubitza",
+            "email": "github@hydrax.org",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "hydrax-skarrag/mysql-workbench-doctrine2-schema-exporter": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "MwbExporterBundle\\": "lib/" }
+    },
+    "target-dir": "MwbExporterBundle"
+}

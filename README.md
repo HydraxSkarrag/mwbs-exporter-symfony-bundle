@@ -1,2 +1,7 @@
-mysql-workbench-doctrine2-schema-exporter-symfony2-bundle
-=========================================================
+README
+======
+
+ATTENTION
+---------
+
+still a testcase
