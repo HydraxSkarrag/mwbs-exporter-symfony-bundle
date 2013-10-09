@@ -13,7 +13,8 @@
 		"workbench",
 		"database",
 		"doctrine",
-		"cli"
+		"cli",
+		"symfony"
 	],
 	"homepage" : "https://github.com/HydraxSkarrag/mwbs-exporter-symfony-bundle",
 	"license" : [
