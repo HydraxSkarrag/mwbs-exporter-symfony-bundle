@@ -3,7 +3,7 @@
     "type": "cli",
     "description": "MySQL Workbench Doctrine2 Schema Exporter Bundle",
     "keywords": ["mysql","workbench","database","doctrine","cli"],
-    "homepage": "https://github.com/HydraxSkarrag/mysql-workbench-schema-exporter-symfony2-bundle",
+    "homepage": "https://github.com/HydraxSkarrag/mysql-workbench-doctrine2-schema-exporter-symfony2-bundle",
     "license": "MIT",
     "authors": [
         {
