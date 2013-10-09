@@ -1,5 +1,4 @@
 <?php
-
 namespace MwbsExporterBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
