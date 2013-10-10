@@ -1,0 +1,10 @@
+parameters:
+    mwbs_exporter.exporter.class: MwbsExporterBundle\Service\Exporter
+    mwbs_exporter.exporter.schemas: []
+
+services:
+    mwbs_exporter.exporter:
+        class: %mwbs_exporter.exporter.class%
+        arguments: [%mwbs_exporter.schemas%]
+        calls:
+          - [setContainer, [@service_container]]
