@@ -7,7 +7,7 @@ Symfony2 Bundle for the "MySQL Workbench Schema Exporter for Doctrine2 Annotatio
 Setup
 -----
 
-Workbench files should be saved in the Resources/workbench/*.mwb directory inner the bundle that is in the configuration. This is configurable per schema.
+Workbench files are saved in the Resources/workbench/*.mwb directory inside your bundle. 
 
 
 Configuration
